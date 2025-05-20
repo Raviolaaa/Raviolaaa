@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning PLC and some Program language
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me reyhanarifaqilvito@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Rav
+- ⚡ Fun fact: -
 
 <!---
 Raviolaaa/Raviolaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
